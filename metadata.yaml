@@ -1,0 +1,31 @@
+_repo: Motion-Pictures-and-Filmstrips-1971-Catalog-of-Copyright-Entries-Third-Series-Vol-25-Pts-12-1__63066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - Congress, Copyright Office Library of
+    - United States. Copyright Office
+    - Library of Congress. Register of Copyrights
+    - Office, U.S. Copyright
+    - Congress, U. S. Copyright Office Library of
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Copyright_Office
+description: ''
+gutenberg_issued: '2020-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Motion pictures -- Catalogs'
+- !lcc 'Z'
+- GITenberg
+title: "Motion Pictures and Filmstrips, 1971: Catalog of Copyright Entries\r\nThird\
+  \ Series Vol 25 Pts 12-13"
+url: http://www.gutenberg.org/ebooks/63066
